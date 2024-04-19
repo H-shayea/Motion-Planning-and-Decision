@@ -1,8 +1,8 @@
 logs/
 *.tmp
 *.log
-**/.DS_Store
-.DS_Store
+*.DS_Store
+
 
 **/Thumbs.db
 
